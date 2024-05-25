@@ -5,7 +5,7 @@ import ListGroup from "./components/ListGroup.js";
 import Image from "./components/Image.js";
 import ImageModal from "./components/ImageModal.js";
 // test 2 from laptop
-//test from desktop
+//test 2 from desktop
 function App() {
   let items = ["Tokyo", "Osaka", "Nara", "Sendai", "Yoro"];
   const handleSelectItem = (item) => console.log(item);
